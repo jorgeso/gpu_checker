@@ -1,0 +1,7 @@
+name: gpuchecker
+dependencies:
+  - python=3.9
+  - beautifulsoup4=4.9.1
+  - pip
+  - pip:
+    - twilio==7.4.0
